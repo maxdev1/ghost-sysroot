@@ -1,0 +1,10 @@
+print:"launching drivers"
+	driver:"/ramdisk/applications/ps2driver.bin"
+	driver:"/ramdisk/applications/vbedriver.bin"
+
+#application:"/ramdisk/applications/windowmanager.bin"
+#wait:"windowmanager"
+#application:"/ramdisk/applications/tester.bin"
+
+print:"running in terminal mode"
+	driver:/ramdisk/applications/terminal.bin

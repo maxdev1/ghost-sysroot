@@ -1,0 +1,21 @@
+
+Welcome to the Ghost operating system 0.5.3!
+
+This is the terminal. It allows you to navigate through the filesystem and
+execute programs and commands. Typing 'help' will give you the list of built-in
+terminal commands.
+
+The '/applications' folder contains some programs to try out.
+
+Fun things to try:
+- List PCI devices in your computer using 'pcitool'
+- List or kill processes using the 'proc' tool
+- Launch the GUI by executing the script: 'launch /system/launch/launch-ui'
+- Write some assembly into a file and compile it using 'nasm'
+- Use 'read /system/graphics/logo.oem-us' to print the logo
+
+Tip: To write stuff into a file, pipe it into the 'write' program.
+'echo Hello! | write test.txt'
+
+Have fun! :-)
+Max

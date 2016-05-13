@@ -79,9 +79,14 @@ KEY_9 ac : ]
 KEY_0    : 0
 KEY_0 s  : =
 KEY_0 ac : }
+KEY_0 c  : \0
 KEY_SHARP_S: ß
 KEY_SHARP_S s: ?
-KEY_SHARP_S ac: \
+KEY_SHARP_S ac: \92
+
+KEY_SMALLER: <
+KEY_SMALLER s: >
+KEY_SMALLER ac: |
 
 KEY_COMMA		: ,
 KEY_COMMA s		: ;

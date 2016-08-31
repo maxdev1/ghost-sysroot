@@ -1,6 +1,7 @@
+
+# Start the visual environment
 print:"launching window server"
 	application:"/applications/windowserver.bin"
 	print:"window server launched"
 	wait:"windowserver/registration"
-	print:"launching calculator"
-	application:"/applications/calculator.bin"
+	application:"/applications/terminal.bin"

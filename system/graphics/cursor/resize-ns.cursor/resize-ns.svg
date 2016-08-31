@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="text.svg"
-   inkscape:export-filename="C:\cygwin\ghost\sysroot\system\graphics\cursor\text.cursor\text.png"
-   inkscape:export-xdpi="61"
-   inkscape:export-ydpi="61">
+   sodipodi:docname="resize-ne.svg"
+   inkscape:export-filename="/ghost/sysroot/system/graphics/cursor/resize-ne.cursor/resize-ne.png"
+   inkscape:export-xdpi="65.058281"
+   inkscape:export-ydpi="65.058281">
   <defs
      id="defs4">
     <filter
@@ -193,18 +193,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="3.7713474"
-     inkscape:cy="15.332979"
+     inkscape:zoom="5.6"
+     inkscape:cx="7.6777075"
+     inkscape:cy="16.653064"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      showguides="false"
-     inkscape:window-width="1144"
-     inkscape:window-height="838"
-     inkscape:window-x="723"
-     inkscape:window-y="173"
+     inkscape:window-width="1433"
+     inkscape:window-height="752"
+     inkscape:window-x="276"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -214,7 +214,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -224,16 +224,12 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 19,1025.3622 c 0,0 -4,-0.1669 -4,4 l 0,16 c 0,0 -0.671956,4 4,4"
-       id="path3364"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.1710273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16,1024.3622 4,4 -2,0 0,18 1.788072,0 -3.788072,4 -4,-4 2,0 0,-18 -2,0 z"
+       id="path4688"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 11,1025.3622 c 0,0 4,0.1142 4,4 l 0,16 c 0,0 0.339581,4 -4,4"
-       id="path3364-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscc" />
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-xdpi="56"
+       inkscape:export-ydpi="56" />
   </g>
 </svg>

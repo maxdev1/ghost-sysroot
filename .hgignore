@@ -1,0 +1,7 @@
+syntax: glob
+system/include
+system/lib
+system/apstartup.o
+system/bin
+system/share
+applications/*

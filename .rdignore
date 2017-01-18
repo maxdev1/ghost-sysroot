@@ -1,0 +1,4 @@
+.hg
+.hgignore
+.project
+*/.DS_Store

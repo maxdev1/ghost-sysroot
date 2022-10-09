@@ -1,4 +1,4 @@
-.hg
-.hgignore
+.git
+.gitignore
 .project
 */.DS_Store
